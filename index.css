@@ -1,0 +1,17 @@
+body {
+ margin: 0px;
+}
+/** cabecario **/
+.topbar {
+    
+}
+.topbar .menu{
+
+}
+.topbar .menu a{
+    text-decoration: none;
+    color: white;
+}
+.topbar .menu a:hover{
+    color: grey;
+}
